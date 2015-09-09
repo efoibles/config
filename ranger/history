@@ -1,0 +1,50 @@
+rename dfdg.JPG
+shell njpg
+shell lower
+rename sdf.jpg_
+rename sdfa.jpg_0
+rename sdf.JPG_sdf
+rename sgfdsg
+rename sdfsd
+shell num
+rename sd.jpg_sdf
+shell s
+rename sd.mov
+shell numer
+shell number
+format
+shell mkdir sdf
+shell mkdir sdfse
+rename sdf.ds
+shell format
+rename sd.JPG
+
+shell rename 'y/A-Z/a-z/' *
+shell vim number-jpg
+shell number-jpg
+delete
+cd Scripts
+shell cd ~/Wallpaper
+cd ~/Wallpaper
+rename new-site
+shell mkdir new-thumbs
+shell 
+shell conver-jpg
+shell mkdir new
+shell mkdir systemd
+shell mkdir user
+shell :q
+search redshift
+shell mkdir
+shell mkdir redshift.service.d
+shell vim:q
+search systemd
+shell mkdir user@.service.d
+shell mkdir sxhkd
+shell mkdir bspwm
+shell mkdir test
+shell mkdir .vim
+w
+Q
+shell mkdir Wallpaper
+rename gitconfig

@@ -1,0 +1,6 @@
+#/!/bin/bash
+ln -s ~/.config/vimrc ~/.vimrc
+ln -s ~/.config/xinitrc ~/.xinitrc
+ln -s ~/.config/Xresources ~/.Xresources
+ln -s ~/.config/zprofile ~/.zprofile
+ln -s ~/.config/zshrc ~/.zshrc
